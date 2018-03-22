@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateFleet&k=1:
+  /?Action=CreateFleet:
     get:
       summary: Create Fleet
       description: Creates a new fleet
