@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateStack&k=1:
+  /?Action=UpdateStack:
     get:
       summary: Update Stack
       description: Updates the specified fields in the stack with the specified name
