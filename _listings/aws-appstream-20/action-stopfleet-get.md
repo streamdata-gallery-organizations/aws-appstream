@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StopFleet&k=1:
+  /?Action=StopFleet:
     get:
       summary: Stop Fleet
       description: Stops a fleet
