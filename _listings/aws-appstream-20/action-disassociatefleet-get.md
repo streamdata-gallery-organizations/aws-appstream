@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DisassociateFleet&k=1:
+  /?Action=DisassociateFleet:
     get:
       summary: Disassociate Fleet
       description: Disassociates a fleet from a stack
