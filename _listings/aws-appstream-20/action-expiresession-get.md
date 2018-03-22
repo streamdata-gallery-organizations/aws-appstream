@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ExpireSession&k=1:
+  /?Action=ExpireSession:
     get:
       summary: Expire Session
       description: This operation immediately stops a streaming session
