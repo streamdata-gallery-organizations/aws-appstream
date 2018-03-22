@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListAssociatedFleets&k=1:
+  /?Action=ListAssociatedFleets:
     get:
       summary: List Associated Fleets
       description: Lists all fleets associated with the stack
