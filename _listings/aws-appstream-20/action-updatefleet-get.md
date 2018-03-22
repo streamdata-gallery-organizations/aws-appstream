@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateFleet&k=1:
+  /?Action=UpdateFleet:
     get:
       summary: Update Fleet
       description: Updates an existing fleet
