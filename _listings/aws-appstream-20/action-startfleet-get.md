@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=StartFleet&k=1:
+  /?Action=StartFleet:
     get:
       summary: Start Fleet
       description: Starts a fleet
