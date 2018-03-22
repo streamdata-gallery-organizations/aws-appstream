@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeFleets&k=1:
+  /?Action=DescribeFleets:
     get:
       summary: Describe Fleets
       description: |-
