@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateStack&k=1:
+  /?Action=CreateStack:
     get:
       summary: Create Stack
       description: Create a new stack
