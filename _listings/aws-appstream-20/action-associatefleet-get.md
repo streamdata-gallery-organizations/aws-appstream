@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=AssociateFleet&k=1:
+  /?Action=AssociateFleet:
     get:
       summary: Associate Fleet
       description: Associate a fleet to a stack
