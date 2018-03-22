@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteStack&k=1:
+  /?Action=DeleteStack:
     get:
       summary: Delete Stack
       description: Deletes the stack
