@@ -15,7 +15,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteFleet&k=1:
+  /?Action=DeleteFleet:
     get:
       summary: Delete Fleet
       description: Deletes a fleet
