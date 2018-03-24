@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-appstream-20.api.streamdata.gallery
+title: Streamdata Gallery AWS AppStream 2.0
+url: aws-appstream-20.streamdata.gallery
 tag: AWS AppStream 2.0
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-appstream-20
 github_branch: master
 collections:
