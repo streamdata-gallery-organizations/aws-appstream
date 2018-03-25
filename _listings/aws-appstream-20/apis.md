@@ -12,8 +12,8 @@ tags:
 - Stack Network
 - Applications
 - Amazon Web Services
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-appstream-20/master/_listings/aws-appstream-20/apis.yaml
 specificationVersion: "0.14"
 apis:
