@@ -1,10 +1,11 @@
-title: Streamdata Gallery AWS AppStream 2.0
-url: aws-appstream-20.streamdata.gallery
-tag: AWS AppStream 2.0
+title: Streamdata API Gallery - AWS AppStream
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: aws-appstream.streamdata.gallery
+tag: AWS AppStream
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
-github_repo: aws-appstream-20
+github_user: streamdata-gallery-entities
+github_repo: aws-appstream
 github_branch: master
 collections:
   listings:
